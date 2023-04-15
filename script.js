@@ -1,3 +1,4 @@
+alert("Gracias por usar nuestra aplicacion web")
 const newTaskInput = document.getElementById('new-task');
 const addTaskButton = document.getElementById('add-task');
 const taskList = document.getElementById('task-list');
